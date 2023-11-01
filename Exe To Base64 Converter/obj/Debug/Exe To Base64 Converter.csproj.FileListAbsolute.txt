@@ -1,0 +1,12 @@
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\bin\Debug\Guna.UI2.dll
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\obj\Debug\Exe To Base64 Converter.csproj.AssemblyReference.cache
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\obj\Debug\Exe_To_Base64_Converter.Form1.resources
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\obj\Debug\Exe_To_Base64_Converter.Properties.Resources.resources
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\obj\Debug\Exe To Base64 Converter.csproj.GenerateResource.cache
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\obj\Debug\Exe To Base64 Converter.csproj.CoreCompileInputs.cache
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\obj\Debug\Exe To Base64 Converter.csproj.CopyComplete
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\bin\Debug\Exe To Base64 Converter V2.exe.config
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\bin\Debug\Exe To Base64 Converter V2.exe
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\bin\Debug\Exe To Base64 Converter V2.pdb
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\obj\Debug\Exe To Base64 Converter V2.exe
+C:\Users\Ejder\source\repos\Exe To Base64 Converter\Exe To Base64 Converter\obj\Debug\Exe To Base64 Converter V2.pdb
