@@ -1,5 +1,6 @@
 # Exe_To_Base64_Converter
 This Program Takes the Raw Code of Your Exe File, Converts it to Base64 and Saves it to a Txt File
 
-![image](https://github.com/HadronSecurity/Exe_To_Base64_Converter/assets/147801258/7ee184d7-7d41-48f3-b8e5-b4973dc5b9c3)
 
+
+![Exe Converter v2](https://github.com/HadronSecurity/Exe_To_Base64_Converter/assets/147801258/0fe494fc-7e2e-40e1-a45c-bbd76991df40)
